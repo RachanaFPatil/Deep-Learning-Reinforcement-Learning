@@ -5,7 +5,7 @@ This project implements a text generation model using LSTM (Long Short-Term Memo
 Dataset
 The project uses 5 classic text files from the NLTK Gutenberg corpus as the dataset:
 austen-emma.txt
-austen-persuasion.txt
-austen-sense.txt
-shakespeare-hamlet.txt
-bible-kjv.txt
+, austen-persuasion.txt
+, austen-sense.txt
+, shakespeare-hamlet.txt
+, bible-kjv.txt
